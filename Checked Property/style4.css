@@ -1,0 +1,36 @@
+body {
+    font-family: poppins;
+    font-size: 2em;
+}
+
+#mySubmit {
+    padding: 10px 20px;
+    font-size: .8em;
+    color: white;
+    background-color: black;
+    cursor: pointer;
+    transition: background-color 0.25s;
+}
+
+#mySubmit:hover{
+    background-color: grey;
+}
+
+#myCheckBox {
+    cursor: pointer;
+
+}
+#visaBtn {
+    cursor: pointer;
+
+}
+
+#masterCardBtn {
+    cursor: pointer;
+
+}
+
+#payPalBtn {
+    cursor: pointer;
+
+}
